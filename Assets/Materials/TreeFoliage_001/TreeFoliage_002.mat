@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TreeFoliage_002
+  m_Shader: {fileID: -6465566751694194690, guid: 851658bc392aa3f4183b605bfea73c3e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_0be3982f621e4a03b8dcea1c02dd86bc:
+        m_Texture: {fileID: 2800000, guid: 7c40cfd418da70c4988ea03927621653, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_a86b5ddfc01742f3bec81041b01972a6:
+        m_Texture: {fileID: 2800000, guid: 1420fa6bf69733546ba0c4e8ea27919d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_5f81eb996386483eba11a3d02a7ebead: 1
+    - Vector1_c2de3baab4ab4cccac9224fee6e7d7aa: 0.3
+    m_Colors:
+    - Vector2_ee1d39da6648469fa4c9808442089f38: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
